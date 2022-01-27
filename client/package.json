@@ -20,7 +20,7 @@
     "react-scripts": "3.4.1",
     "redux": "^4.0.5",
     "semantic-ui-react": "^0.88.2",
-    "three": "^0.115.0"
+    "three": "^0.137.0"
   },
   "scripts": {
     "start": "react-scripts start",
